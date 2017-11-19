@@ -4,7 +4,7 @@ Over the summer I attended [Metis' Data Science Bootcamp](http://www.thisismetis
 During the bootcamp, we completed challenges intended to build our skills in various areas of data science. 
 Included are the first seven challenges I completed as well as the final eight that I am currently working through.
 
-In each challenge's folder, a README.md file lists the objectives of the challenges as well as a data set if required. 
+In each challenge's folder, a `README.md` file lists the objectives of the challenges as well as a data set if required. 
 My solutions are then found in the `challenge_set_[#]_brendan.ipynb` file.
 
 | Challenge # | Description                                | Skills Demonstrated                                                        |
