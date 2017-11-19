@@ -1,4 +1,4 @@
-# Metis_Challenges
+# Metis Challenges
 
 Over the summer I attended [Metis' Data Science Bootcamp](http://www.thisismetis.com/data-science-bootcamps "Metis' Bootcamp Page").
 During the bootcamp, we completed challenges intended to build our skills in various areas of data science. 
