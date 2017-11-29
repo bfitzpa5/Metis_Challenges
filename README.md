@@ -1,7 +1,7 @@
 # Metis Challenges
 
 Over the summer I attended [Metis' Data Science Bootcamp](http://www.thisismetis.com/data-science-bootcamps "Metis' Bootcamp Page"). Over the course of twelve weeks, we completed challenges intended to build our skills in various areas of data science. 
-Included are the first seven challenges I completed as well as the final eight that I am currently working through.
+Included are the first eight challenges I completed and the objectives for the SQL challenge I am still finishing.
 
 In each challenge's folder, a `README.md` file lists the objectives of the challenges as well as a data set if required. 
 My solutions are then found in the `challenge_set_[#]_brendan.ipynb` file.
